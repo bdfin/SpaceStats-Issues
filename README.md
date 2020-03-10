@@ -1,2 +1,2 @@
-# SpaceStats-Issues
-A public issue tracking repository for the SpaceStats app. 
+# Space Stats Issues & Features
+A public issue and feature tracking repository for the SpaceStats app. 
